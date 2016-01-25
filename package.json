@@ -1,0 +1,14 @@
+{
+  "name": "tippekupong-cyclejs",
+  "version": "1.0.0",
+  "description": "Example application using cycle.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "cyclejs"
+  ],
+  "author": "Mads A. Lundeland",
+  "license": "ISC"
+}
